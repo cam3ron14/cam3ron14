@@ -1,5 +1,5 @@
 I'm Cameron
-I'm currently learning fromtend.
+I'm currently learning frontend.
 I will be sharing the projects that I do along my journey. 
 
 
