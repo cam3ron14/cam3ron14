@@ -1,4 +1,4 @@
-I'm Cameron
+My name is Cameron
 I'm currently learning frontend.
 I will be sharing the projects that I do along my journey. 
 
